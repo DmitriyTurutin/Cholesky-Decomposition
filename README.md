@@ -3,4 +3,4 @@
 *Example*
 
 
-![Example](url "../../Test_output.png")
+![Example](Test_output.png)
